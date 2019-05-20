@@ -1,0 +1,5 @@
+function draw() {
+  var micLevel = mic.getLevel();
+  background(0);
+  fill(r,g,b);
+  ellipse(250,250,50
